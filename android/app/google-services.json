@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "244210358365",
+    "firebase_url": "https://fir-app-469eb.firebaseio.com",
+    "project_id": "fir-app-469eb",
+    "storage_bucket": "fir-app-469eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244210358365:android:6eedc828d92a5397a355b4",
+        "android_client_info": {
+          "package_name": "prajapat.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244210358365-ognqeufo6ii7au4ki9qqasm5kp61m5cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIy5HGTk-i_MiyiIcZMPPN9d1s0uCrwN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244210358365-ognqeufo6ii7au4ki9qqasm5kp61m5cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
